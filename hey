@@ -6,5 +6,10 @@ hey this is new branch
 git new change
 
 
+<<<<<<< HEAD
 master changge
 
+=======
+
+yes we can now changed
+>>>>>>> feature
