@@ -1,0 +1,11 @@
+node {
+
+  
+        stage('Checkoutcode') {
+"<add the github credentials from snippet generators>"
+           }
+stage('build')
+{
+"mvn clean package"
+    }
+}
